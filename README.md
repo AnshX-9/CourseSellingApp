@@ -1,3 +1,4 @@
+## Handy Guide of Project
 ## Create a course selling app
 
  - Initialize a new Node.js project
