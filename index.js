@@ -5,9 +5,11 @@ require('dotenv').config();
 const app = express();
 
 
+function sum(a, b) {
+  return a * b
+}
 
-
-
+sum(1, 2);
 
 connectDB();
 const PORT = process.env.PORT || 5000;
